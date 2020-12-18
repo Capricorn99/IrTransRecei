@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-1
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-1
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-1
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-1
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-1
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-1
+Removed Pin From Net: NetName=NetF1_2 Pin=F1-2
+Removed Pin From Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=F1-4
+Change Net Name : Old Net Name=NetF1_1 New Net Name=NetMOV-10D471K_1
+Change Net Name : Old Net Name=NetF1_2 New Net Name=NetF1_4

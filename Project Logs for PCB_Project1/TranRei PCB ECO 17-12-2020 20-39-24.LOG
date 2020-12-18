@@ -1,0 +1,22 @@
+Added Component: Designator=U2(NE555 SOP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=2776400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Purchase_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2776400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2776400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NE555P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NE555P/Texas%20Instruments/view-part/2776400/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=2776400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetC5_2 Pin=U2-2
+Added Pin To Net: NetName=NetR6_1 Pin=U2-3
+Added Pin To Net: NetName=Trans Pin=U2-4
+Added Pin To Net: NetName=NetC4_2 Pin=U2-5
+Added Pin To Net: NetName=NetC5_2 Pin=U2-6
+Added Pin To Net: NetName=NetD3_1 Pin=U2-7
+Added Pin To Net: NetName=5VDC Pin=U2-8
+Added Member To Class: ClassName=Sheet1 Member=Component U2 NE555P

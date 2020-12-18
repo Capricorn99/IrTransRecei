@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=F1 Old Footprint=Fuse Cover New Footprint=Fuse Holder
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=PS? NewDesignator=PS1
+Added Room: Name=Sheet1
